@@ -1,0 +1,12 @@
+/* CSS Variables */
+:root {
+	--primary-GrayishBlue: hsl(237, 18%, 59%);
+	--primary-SoftRed: hsl(345, 95%, 68%);
+
+	--neutral-white: hsl(0, 0%, 100%);
+	--neutral-darkDesaturatedBlue: hsl(236, 21%, 26%);
+	--neutral-veryDarkBlue: hsl(235, 16%, 14%);
+	--neutral-blueBlack: hsl(234, 17%, 12%);
+
+	--fontFamily: "Red Hat Text", sans-serif;
+}
